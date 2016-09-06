@@ -1,0 +1,5 @@
+1,Arrow,Shirts,800
+2,UCB,Shirts,1500
+3,UCB,Shirts,1500
+4,UCB,Shirts,1500
+    
